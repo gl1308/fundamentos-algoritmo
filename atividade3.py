@@ -1,0 +1,5 @@
+int(input("digite os dias"))
+int(input("digite as horas"))
+int(input("digite os minutos"))
+int(input("digite os segundos"))
+tempo_totalemsegundos = (dias + horas + minutos + segundos)
